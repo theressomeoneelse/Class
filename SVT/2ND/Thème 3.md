@@ -10,7 +10,7 @@ Selon la distribution des chromosomes sexuels lors de la fécondation sexuelle:
 Le gène **SRY** présent sur Y est déterminant car en sa présence, les gonades indifférenciées deviennent des testicules.
 Si il est absent, d'autres gènes s'exprimeront et le gonades deviendront des ovaires.
 Les testicules embryonnaires sécrètent des hormones dont la testostérone.
-Cett dernière oriente le développement des canaux génitaux en voie mâle (canal déférent, épidydime, bourse, pénis, ...).
+Cette dernière oriente le développement des canaux génitaux en voie mâle (canal déférent, épidydime, bourse, pénis, ...).
 En absence de testostérone, les canaux indiférenciés se féminisent (vagin, trompes, clitoris, ...).
 
 ### II - La puberté: le fonctionnement des canaux génitaux
