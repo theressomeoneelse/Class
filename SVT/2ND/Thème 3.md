@@ -31,3 +31,12 @@ Chez l'espèce humaine comme chez d'autres primates, l'activité sexuelle est en
 Le fonctionnemet des gonades est contrôlé par une petite gland hormonale nommée **l'hypophyse**.
 Cette dernière produit des hormones appelées *gonadostimulines*: la **FSH** *(Folliculo Stimulating Hormone)* et la **LH** *(Luteinizing Hormone)*, identiques dans les deux sexes.
 Chez la femme, c'est une brusque augmentation du taux de LH vers le 14e jour qui déclenche l'ovulation.
+
+### II - Les méthodes de contraception
+Pour assurer la contraception et la maîtrise de la reproduction, on a recours aux hormones de synthèse.
+Il y a notamment:
+  - la pilule à prise discontinue: *21 jours, puis 7 jours de règles* (oestrogènes et progestérone)
+  - la pilule à prise discontinue: *28 jours* (progestérone microdosée)
+  - implants, anneaux, ...
+D'autres méthodes mécaniques: stérilet, préservatifs, ...
+La pilule du lendemain contient un progestatif surdosé.
