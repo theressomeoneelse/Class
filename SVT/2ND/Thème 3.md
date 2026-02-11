@@ -7,6 +7,7 @@ Au début du développement embryonnaire, les organes génitaux sont identiques 
 Selon la distribution des chromosomes sexuels lors de la fécondation sexuelle:
   - si l'embryon possède **XY**, les gonades indifférenciées deviennent des testicules 
   - si il possède **XX**, ils deviennent des ovaires.
+
 Le gène **SRY** présent sur Y est déterminant car en sa présence, les gonades indifférenciées deviennent des testicules.
 Si il est absent, d'autres gènes s'exprimeront et le gonades deviendront des ovaires.
 Les testicules embryonnaires sécrètent des hormones dont la testostérone.
